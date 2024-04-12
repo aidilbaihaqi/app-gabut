@@ -15,6 +15,12 @@
                 <ol class="breadcrumb mb-4">
                     <li class="breadcrumb-item active">ini halaman dashboard lah gaush banyak nnya</li>
                 </ol>
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <i class="fas fa-info me-1"></i>
+                        Short Information
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-xl-3 col-md-6">
                         <div class="card bg-primary text-white mb-4">
@@ -71,12 +77,6 @@
                             </div>
                             <div class="card-body"><canvas id="myBarChart" width="100%" height="40"></canvas></div>
                         </div>
-                    </div>
-                </div>
-                <div class="card mb-4">
-                    <div class="card-header">
-                        <i class="fas fa-info me-1"></i>
-                        Short Information
                     </div>
                 </div>
             </div>
