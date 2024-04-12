@@ -22,6 +22,7 @@ class MahasiswaFactory extends Factory
     {
         return [
             'nim' => $this->faker->unique()->numerify('############'),
+            'foto' => $this->faker->unique()->userName.'.png',
             'nama' => $this->faker->name,
             'jenis_kelamin' => $this->faker->randomElement(['L', 'P']),
             'tempat_lahir' => $this->faker->city,
