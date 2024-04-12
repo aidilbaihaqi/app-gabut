@@ -20,6 +20,9 @@
                         <i class="fas fa-info me-1"></i>
                         Short Information
                     </div>
+                    <div class="card-body">
+                        <p class="card-text">Aplikasi ini adalah aplikasi gabutan doang yang tujuannya hanya ingin mempelajari beberapa fitur baru atau yang belum pernah digunakan pada <span class="text-danger"> Laravel</span> seperti <span class="text-info">Breeze, Spatie dan ekosistem lainnya, Tailwind CSS serta teknologi lainnya</span>. Semoga diberikan kemudahan oleh <span class="text-success">Allah SWT</span>. Allahhumma aamiin</p>
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col-xl-3 col-md-6">
