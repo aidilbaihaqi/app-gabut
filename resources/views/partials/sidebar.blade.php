@@ -15,7 +15,7 @@
               </a>
               <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                   <nav class="sb-sidenav-menu-nested nav">
-                      <a class="nav-link" href="layout-static.html">Data Mahasiswa</a>
+                      <a class="nav-link" href="#">Data Mahasiswa</a>
                   </nav>
               </div>
           </div>
