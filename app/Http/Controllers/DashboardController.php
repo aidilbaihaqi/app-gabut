@@ -14,6 +14,7 @@ class DashboardController extends Controller
     {
         return view('pages/dashboard', [
             'title' => 'Dashboard | Aplikasi Gabut',
+            'mainHeader' => 'Dashboard',
             'mhs_count' => Mahasiswa::all()->count()
         ]);
     }
